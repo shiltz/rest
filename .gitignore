@@ -1,0 +1,13 @@
+#Compiled source#
+#################
+*.class
+
+#Package#
+#################
+*.war
+*.jar
+*.ear
+
+.gradle/
+out/
+
